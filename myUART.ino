@@ -168,7 +168,7 @@ float vel_tope=0;
 bool flip = false;
 bool switch_torque_mode = true;// 1 torque 0 velocidad
 
-const float torque_lim=1.5;
+const float torque_lim=2.4;
 const float vel_lim=30;
 
 const unsigned long interval = 10;  // Intervalo de muestreo en milisegundos <------ min T= 4
